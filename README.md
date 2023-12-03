@@ -10,6 +10,7 @@
     Decrypt emojis back into the original text.
     Creative and entertaining way to protect and reveal messages.
 
+
 ### How to Use
     Enter the message you want to encrypt into the input field.
     Click the "Encrypt" button to convert the message into emojis.
